@@ -9,6 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
           <!-- Github polling 	 -->
+<!-- 	2nd polling -->
 	<groupId>com.springboot</groupId>
 	<artifactId>build-ems-rest-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
